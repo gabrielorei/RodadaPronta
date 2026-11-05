@@ -17,6 +17,12 @@ import streamlit as st
 
 import rodada_pronta as cr
 
+from curl_cffi import requests as _rq
+_url = "https://api.sofascore.com/api/v1/unique-tournament/23/season/95836/events/round/1"
+_r = _rq.get(_url, headers={"Referer": "https://www.sofascore.com/"},
+             impersonate="chrome", timeout=25)
+print("TESTE SOFASCORE:", _r.status_code, flush=True)
+
 BASE = Path(__file__).resolve().parent
 SAIDA = BASE / "saida"
 IMAGENS = [   # (início do nome do arquivo, rótulo)
