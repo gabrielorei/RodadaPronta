@@ -1,0 +1,6 @@
+streamlit
+pandas
+curl_cffi
+pillow
+tzdata
+playwright
