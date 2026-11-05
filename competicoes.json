@@ -1,0 +1,2093 @@
+{
+  "serie-a": {
+    "nome": "Série A",
+    "nome_curto": "Serie A",
+    "tournament_id": 23,
+    "season_id": 95836,
+    "season_auto": false,
+    "ano_civil": false,
+    "idioma": "it",
+    "rotulo_rodada": "Giornata",
+    "formato_rodada": "{n}° {rotulo}",
+    "cores": [
+      "#009246",
+      "#F0F0F0",
+      "#CE2B37"
+    ],
+    "tv_padrao": "Disney+",
+    "futnatv": "Campeonato Italiano",
+    "total_rodadas": 38,
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "Champions League",
+        "ini": 1,
+        "fim": 4
+      },
+      {
+        "chave": "el",
+        "rotulo": "Europa League",
+        "ini": 5,
+        "fim": 5
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "Conference League",
+        "ini": 6,
+        "fim": 6
+      },
+      {
+        "chave": "rel",
+        "rotulo": "Rebaixamento",
+        "ini": 18,
+        "fim": 20
+      }
+    ],
+    "nomes_times": {},
+    "nomes_estadios": {},
+    "prefixo_estadio": "Stadio ",
+    "mata_mata": false,
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "auto",
+    "textura_opacidade": 2,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "tv_logos": true,
+    "fundo_imagem_intensidade": 28,
+    "times_sofascore": [
+      "AC Milan",
+      "AS Roma",
+      "Atalanta",
+      "Bologna",
+      "Cagliari",
+      "Como",
+      "Fiorentina",
+      "Frosinone",
+      "Genoa",
+      "Inter",
+      "Juventus",
+      "Lazio",
+      "Lecce",
+      "Monza",
+      "Parma",
+      "Sassuolo",
+      "SSC Napoli",
+      "Torino",
+      "Udinese",
+      "Venezia"
+    ],
+    "estadios_sofascore": [
+      "Allianz Stadium",
+      "Bluenergy Stadium",
+      "Ennio Tardini",
+      "Luigi Ferraris",
+      "Mapei Stadium",
+      "New Balance Arena",
+      "Renato Dall'Ara",
+      "San Siro/Giuseppe Meazza",
+      "Stadio Artemio Franchi",
+      "Stadio Benito Stirpe",
+      "Stadio Diego Armando Maradona",
+      "Stadio Giuseppe Sinigaglia",
+      "Stadio Olimpico",
+      "Stadio Olimpico Grande Torino",
+      "Stadio Pierluigi Penzo",
+      "U-Power Stadium",
+      "Unipol Domus",
+      "Via del Mare"
+    ],
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 7,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 8,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 9,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 10,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 11,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 12,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 13,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 14,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 15,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 16,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 17,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 18,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 19,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 20,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 21,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 22,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 23,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 24,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 25,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 26,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 27,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 28,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 29,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 30,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 31,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 32,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 33,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 34,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 35,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 36,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 37,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 38,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "laliga": {
+    "nome": "La Liga",
+    "nome_curto": "LaLiga",
+    "tournament_id": 8,
+    "season_id": 97268,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "es",
+    "cores": [
+      "#ff4b44",
+      "#ffffff"
+    ],
+    "total_rodadas": 38,
+    "times_sofascore": [
+      "Athletic Club",
+      "Atlético Madrid",
+      "Celta Vigo",
+      "Deportivo Alavés",
+      "Deportivo de A Coruña",
+      "Elche",
+      "Espanyol",
+      "FC Barcelona",
+      "Getafe",
+      "Levante UD",
+      "Málaga CF",
+      "Osasuna",
+      "Rayo Vallecano",
+      "Real Betis",
+      "Real Madrid",
+      "Real Racing Club",
+      "Real Sociedad",
+      "Sevilla",
+      "Valencia",
+      "Villarreal"
+    ],
+    "estadios_sofascore": [
+      "Bernabéu",
+      "Ciudad de Valencia",
+      "Coliseum Alfonso Pérez",
+      "El Sardinero",
+      "Estadio Abanca Balaídos",
+      "Estadio de la Cartuja",
+      "Estadio de la Ceramica",
+      "Estadio de Mendizorroza",
+      "Estadio de Vallecas",
+      "Estadio El Sadar",
+      "Estadio Martínez Valero",
+      "Estadio Riazor",
+      "La Rosaleda",
+      "Mestalla",
+      "Ramón Sánchez Pizjuán",
+      "RCDE Stadium",
+      "Reale Arena",
+      "Riyadh Air Metropolitano",
+      "San Mamés",
+      "Spotify Camp Nou"
+    ],
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "tv_padrao": "Cazé TV",
+    "futnatv": "Campeonato Espanhol",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_times": {},
+    "nomes_estadios": {},
+    "mata_mata": false,
+    "rotulos_faixas": {},
+    "fundo": "#ff4b44",
+    "tema": "medio",
+    "estilo_fundo": "aneis",
+    "textura_opacidade": 2,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "tv_logos": true,
+    "fundo_imagem_intensidade": 28,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "premier-league": {
+    "nome": "Premier League",
+    "nome_curto": "Premier League",
+    "tournament_id": 17,
+    "season_id": 96668,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "en",
+    "cores": [
+      "#3c1c5a",
+      "#f80158"
+    ],
+    "total_rodadas": 38,
+    "times_sofascore": [
+      "Arsenal",
+      "Aston Villa",
+      "Bournemouth",
+      "Brentford",
+      "Brighton & Hove Albion",
+      "Chelsea",
+      "Coventry City",
+      "Crystal Palace",
+      "Everton",
+      "Fulham",
+      "Hull City",
+      "Ipswich Town",
+      "Leeds United",
+      "Liverpool FC",
+      "Manchester City",
+      "Manchester United",
+      "Newcastle United",
+      "Nottingham Forest",
+      "Sunderland",
+      "Tottenham Hotspur"
+    ],
+    "estadios_sofascore": [
+      "American Express Stadium",
+      "Anfield",
+      "Brentford Community Stadium",
+      "City Ground",
+      "Coventry Building Society Arena",
+      "Craven Cottage",
+      "Elland Road",
+      "Emirates Stadium",
+      "Etihad Stadium",
+      "Hill Dickinson Stadium",
+      "MKM Stadium",
+      "Old Trafford",
+      "Portman Road Stadium",
+      "Selhurst Park",
+      "St James' Park",
+      "Stadium of Light",
+      "Stamford Bridge",
+      "Tottenham Hotspur Stadium",
+      "Villa Park",
+      "Vitality Stadium"
+    ],
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "tv_padrao": "Disney+",
+    "futnatv": "Campeonato Inglês",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_times": {},
+    "nomes_estadios": {},
+    "mata_mata": false,
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tv_logos": true,
+    "tema": "medio",
+    "estilo_fundo": "auto",
+    "textura_opacidade": 4,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "fundo_imagem_intensidade": 28,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "bundesliga": {
+    "nome": "Bundesliga",
+    "nome_curto": "Bundesliga",
+    "tournament_id": 35,
+    "season_id": 97464,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "pt",
+    "cores": [
+      "#000000",
+      "#dd0000",
+      "#ffce00"
+    ],
+    "total_rodadas": 34,
+    "times_sofascore": [
+      "1. FC Köln",
+      "1. FC Union Berlin",
+      "1. FSV Mainz 05",
+      "Bayer 04 Leverkusen",
+      "Borussia Dortmund",
+      "Borussia M'gladbach",
+      "Eintracht Frankfurt",
+      "FC Augsburg",
+      "FC Bayern München",
+      "FC Schalke 04",
+      "Hamburger SV",
+      "RB Leipzig",
+      "SC Freiburg",
+      "SC Paderborn 07",
+      "SV 07 Elversberg",
+      "SV Werder Bremen",
+      "TSG Hoffenheim",
+      "VfB Stuttgart"
+    ],
+    "estadios_sofascore": [
+      "Allianz Arena",
+      "An der alten Försterei",
+      "BayArena",
+      "Borussia-Park",
+      "Deutsche Bank Park",
+      "Europa-Park-Stadion",
+      "Home Deluxe Arena",
+      "MEWA Arena",
+      "MHP Arena",
+      "PreZero Arena",
+      "Red Bull Arena",
+      "RheinEnergieStadion",
+      "Signal Iduna Park",
+      "Ursapharm-Arena an der Kaiserlinde",
+      "VELTINS-Arena",
+      "Volksparkstadion",
+      "Weserstadion",
+      "WWK ARENA"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Campeonato Alemão",
+    "mata_mata": false,
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "alemanha",
+    "textura_opacidade": 2,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "fundo_imagem_intensidade": 8,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "uefa-europa-league": {
+    "nome": "UEFA Europa League",
+    "nome_curto": "UEFA Europa League",
+    "tournament_id": 679,
+    "season_id": 96522,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "pt",
+    "cores": [
+      "#f37d25",
+      "#F0F0F0"
+    ],
+    "total_rodadas": 8,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "Qualification Round 1",
+        "slug": "qualification-round-1",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "Qualification Round 2",
+        "slug": "qualification-round-2",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "Qualification Round 3",
+        "slug": "qualification-round-3",
+        "prefix": ""
+      },
+      {
+        "round": 636,
+        "name": "Playoff round",
+        "slug": "playoff-round",
+        "prefix": "Qualification"
+      },
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 7,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 8,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": true,
+    "times_sofascore": [
+      "AC Milan",
+      "AC Sparta Praha",
+      "AZ Alkmaar",
+      "Bayer 04 Leverkusen",
+      "Benfica",
+      "Beşiktaş JK",
+      "Bournemouth",
+      "Celta Vigo",
+      "Celtic",
+      "Crystal Palace",
+      "FC Ararat-Armenia",
+      "FC Viktoria Plzeň",
+      "Ferencváros TC",
+      "GNK Dinamo Zagreb",
+      "Hapoel Be'er Sheva",
+      "Jagiellonia Białystok",
+      "Juventus",
+      "Lech Poznań",
+      "Levski Sofia",
+      "Lillestrøm SK",
+      "NEC Nijmegen",
+      "NK Celje",
+      "OFI Crete",
+      "Olympiacos FC",
+      "Olympique de Marseille",
+      "Olympique Lyonnais",
+      "Omonia Nicosia",
+      "Real Sociedad",
+      "Red Bull Salzburg",
+      "Royale Union Saint-Gilloise",
+      "RSC Anderlecht",
+      "SK Sturm Graz",
+      "Stade Rennais",
+      "Sunderland",
+      "Torreense",
+      "TSG Hoffenheim"
+    ],
+    "estadios_sofascore": [
+      "AFAS Stadion",
+      "Allianz Stadium",
+      "Arena Z’dezele",
+      "BayArena",
+      "Celtic Park",
+      "CEPAC Vélodrome",
+      "Chorten Arena",
+      "Enea Poznań",
+      "epet ARENA",
+      "Estadio Abanca Balaídos",
+      "Estádio da Luz",
+      "Estádio Manuel Marques",
+      "Georgi Asparuhov Stadium",
+      "Georgios Karaiskakis Stadium",
+      "Groupama Aréna",
+      "Groupama Stadium",
+      "GSP Stadium",
+      "Lotto Park",
+      "Merkur Arena",
+      "Pagritio",
+      "PreZero Arena",
+      "Reale Arena",
+      "Red Bull Arena",
+      "Roazhon Park",
+      "San Siro/Giuseppe Meazza",
+      "Selhurst Park",
+      "Stade Joseph Marien",
+      "Stadion de Goffert",
+      "Stadion Maksimir",
+      "Stadion Mesta Plzne",
+      "Stadium of Light",
+      "Toto Turner Stadium",
+      "Tüpraş Stadyumu",
+      "Vazgen Sargsyan Republican Stadium",
+      "Vitality Stadium",
+      "Åråsen"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Europa League",
+    "rotulos_faixas": {},
+    "fundo": "#f37d25",
+    "tema": "medio",
+    "textura": "padrao",
+    "textura_opacidade": 1,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "estilo_fundo": "listras",
+    "logo_sobre_padrao": false,
+    "fundo_imagem_intensidade": 28,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "campeonato-brasileiro-serie-a": {
+    "nome": "Brasileirão",
+    "nome_curto": "Brasileirão Série A",
+    "tournament_id": 325,
+    "season_id": 87678,
+    "season_auto": true,
+    "ano_civil": true,
+    "idioma": "pt",
+    "cores": [
+      "#eeff00",
+      "#302681"
+    ],
+    "total_rodadas": 38,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 7,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 8,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 9,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 10,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 11,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 12,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 13,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 14,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 15,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 16,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 17,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 18,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 19,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 20,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 21,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 22,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 23,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 24,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 25,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 26,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 27,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 28,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 29,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 30,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 31,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 32,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 33,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 34,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 35,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 36,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 37,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 38,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": false,
+    "times_sofascore": [
+      "Athletico",
+      "Atlético Mineiro",
+      "Bahia",
+      "Botafogo",
+      "Chapecoense",
+      "Corinthians",
+      "Coritiba",
+      "Cruzeiro",
+      "Flamengo",
+      "Fluminense",
+      "Grêmio",
+      "Internacional",
+      "Mirassol",
+      "Palmeiras",
+      "Red Bull Bragantino",
+      "Remo",
+      "Santos",
+      "São Paulo",
+      "Vasco da Gama",
+      "Vitória"
+    ],
+    "estadios_sofascore": [
+      "Arena Condá",
+      "Arena da Baixada",
+      "Arena do Grêmio",
+      "Arena Fonte Nova",
+      "Arena MRV",
+      "Estádio Beira-Rio",
+      "Estádio do Maracanã",
+      "Estádio José Maria de Campos Maia",
+      "Estádio Major Antônio Couto Pereira",
+      "Estádio Manoel Barradas",
+      "Estádio Nabi Abi Chedid",
+      "Estádio Nilton Santos",
+      "Estádio São Januário",
+      "Estádio Urbano Caldeira",
+      "Governador Magalhães Pinto",
+      "Mangueirão",
+      "MorumBIS",
+      "Neo Química Arena",
+      "Nubank Parque"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "rotulos_faixas": {},
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Brasileirão - Série A",
+    "fundo": "#09751f",
+    "tema": "medio",
+    "estilo_fundo": "brasil",
+    "textura_opacidade": 2,
+    "fundo_imagem_intensidade": 28,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "uefa-champions-league": {
+    "nome": "UEFA Champions League",
+    "nome_curto": "UEFA Champions League",
+    "tournament_id": 7,
+    "season_id": 96518,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "pt",
+    "cores": [
+      "#062b5c",
+      "#f0f0f0"
+    ],
+    "total_rodadas": 8,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "Qualification Round 1",
+        "slug": "qualification-round-1",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "Qualification Round 2",
+        "slug": "qualification-round-2",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "Qualification Round 3",
+        "slug": "qualification-round-3",
+        "prefix": ""
+      },
+      {
+        "round": 636,
+        "name": "Playoff round",
+        "slug": "playoff-round",
+        "prefix": "Qualification"
+      },
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 7,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 8,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": true,
+    "times_sofascore": [
+      "AEK Athens",
+      "Arsenal",
+      "AS Roma",
+      "Aston Villa",
+      "Atlético Madrid",
+      "Bodø/Glimt",
+      "Borussia Dortmund",
+      "Club Brugge KV",
+      "Como",
+      "FC Barcelona",
+      "FC Bayern München",
+      "FC Porto",
+      "Fenerbahçe",
+      "Feyenoord",
+      "Galatasaray",
+      "Inter",
+      "LASK",
+      "Liverpool FC",
+      "LOSC Lille",
+      "Manchester City",
+      "Manchester United",
+      "Paris Saint-Germain",
+      "PSV Eindhoven",
+      "RB Leipzig",
+      "RC Lens",
+      "Real Betis",
+      "Real Madrid",
+      "Sabah FK",
+      "Shakhtar Donetsk",
+      "SK Slavia Praha",
+      "Sporting CP",
+      "SSC Napoli",
+      "VfB Stuttgart",
+      "Viking FK",
+      "Villarreal",
+      "ŠK Slovan Bratislava"
+    ],
+    "estadios_sofascore": [
+      "Allianz Arena",
+      "Allwyn Arena",
+      "Anfield",
+      "Arena Lviv",
+      "Aspmyra Stadion",
+      "Bank Respublika Arena",
+      "Bernabéu",
+      "Chobani Stadium",
+      "De Kuip",
+      "Decathlon Arena - Stade Pierre Mauroy",
+      "Emirates Stadium",
+      "Estadio de la Cartuja",
+      "Estadio de la Ceramica",
+      "Estádio do Dragão",
+      "Estádio José Alvalade",
+      "Etihad Stadium",
+      "Fortuna Arena",
+      "Jan Breydel Stadium",
+      "Lyse Arena",
+      "MHP Arena",
+      "Old Trafford",
+      "Parc des Princes",
+      "Philips Stadion",
+      "Raiffeisen Arena",
+      "Rams Park Stadyumu",
+      "Red Bull Arena",
+      "Riyadh Air Metropolitano",
+      "San Siro/Giuseppe Meazza",
+      "Signal Iduna Park",
+      "Spotify Camp Nou",
+      "Stade Bollaert-Delelis",
+      "Stadio Diego Armando Maradona",
+      "Stadio Giuseppe Sinigaglia",
+      "Stadio Olimpico",
+      "Tehelne Pole Stadion",
+      "Villa Park"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "estrelas",
+    "textura_opacidade": 5,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Champions League",
+    "fundo_imagem_intensidade": 13,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "ligue-1": {
+    "nome": "Ligue 1",
+    "nome_curto": "Ligue 1",
+    "tournament_id": 34,
+    "season_id": 96127,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "pt",
+    "cores": [
+      "#091c3e",
+      "#ffffff",
+      "#DE343E"
+    ],
+    "total_rodadas": 34,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 7,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 8,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 9,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 10,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 11,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 12,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 13,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 14,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 15,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 16,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 17,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 18,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 19,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 20,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 21,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 22,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 23,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 24,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 25,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 26,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 27,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 28,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 29,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 30,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 31,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 32,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 33,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 34,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": false,
+    "times_sofascore": [
+      "AJ Auxerre",
+      "Angers",
+      "AS Monaco",
+      "Le Havre",
+      "Le Mans",
+      "Lorient",
+      "LOSC Lille",
+      "OGC Nice",
+      "Olympique de Marseille",
+      "Olympique Lyonnais",
+      "Paris FC",
+      "Paris Saint-Germain",
+      "RC Lens",
+      "RC Strasbourg",
+      "Stade Brestois",
+      "Stade Rennais",
+      "Toulouse",
+      "Troyes"
+    ],
+    "estadios_sofascore": [
+      "Allianz Riviera",
+      "CEPAC Vélodrome",
+      "Decathlon Arena - Stade Pierre Mauroy",
+      "Groupama Stadium",
+      "Parc des Princes",
+      "Roazhon Park",
+      "Stade Bollaert-Delelis",
+      "Stade de l'Abbé-Deschamps",
+      "Stade de l'Aube",
+      "Stade de la Meinau",
+      "Stade Francis-Le Ble",
+      "Stade Jean Bouin",
+      "Stade Louis II",
+      "Stade Marie-Marvingt",
+      "Stade Oceane",
+      "Stade Raymond Kopa",
+      "Stade Yves Allainmat-Le Moustoir",
+      "Stadium de Toulouse"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "franca",
+    "textura_opacidade": 2,
+    "fundo_imagem_intensidade": 28,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Campeonato Francês",
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true
+  },
+  "uefa-conference-league": {
+    "nome": "UEFA Conference League",
+    "nome_curto": "UEFA Conference League",
+    "tournament_id": 17015,
+    "season_id": 96529,
+    "season_auto": true,
+    "ano_civil": false,
+    "idioma": "pt",
+    "cores": [
+      "#04be15",
+      "#F0F0F0"
+    ],
+    "total_rodadas": 6,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "Qualification Round 1",
+        "slug": "qualification-round-1",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "Qualification Round 2",
+        "slug": "qualification-round-2",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "Qualification Round 3",
+        "slug": "qualification-round-3",
+        "prefix": ""
+      },
+      {
+        "round": 636,
+        "name": "Playoff round",
+        "slug": "playoff-round",
+        "prefix": "Qualification"
+      },
+      {
+        "round": 1,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      },
+      {
+        "round": 6,
+        "name": "",
+        "slug": "",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": true,
+    "times_sofascore": [
+      "AFC Ajax",
+      "AGF",
+      "AS Monaco",
+      "Atalanta",
+      "Brighton & Hove Albion",
+      "CSKA Sofia",
+      "FC Iberia 1999",
+      "FC Kairat Almaty",
+      "FC København",
+      "FC Lugano",
+      "FC Midtjylland",
+      "FC Nordsjælland",
+      "FC Thun",
+      "FC Twente",
+      "FK Borac Banja Luka",
+      "FK Crvena zvezda",
+      "FK Jablonec",
+      "FK Kauno Žalgiris",
+      "Getafe",
+      "Heart of Midlothian",
+      "HNK Hajduk Split",
+      "Inter Club d'Escaldes",
+      "KAA Gent",
+      "KF Egnatia",
+      "Kuopion Palloseura",
+      "Lincoln Red Imps",
+      "Mjällby AIF",
+      "Pafos FC",
+      "Panathinaikos FC",
+      "Riga FC",
+      "SC Freiburg",
+      "Sint-Truidense VV",
+      "SK Brann",
+      "Sporting Braga",
+      "Trabzonspor",
+      "Universitatea Craiova"
+    ],
+    "estadios_sofascore": [
+      "AIL Arena",
+      "American Express Stadium",
+      "Apostolos Nikolaidis Stadium",
+      "Arena Egnatia",
+      "Balgarska Armiya Stadium",
+      "Brann Stadion",
+      "Central Stadium",
+      "Coliseum Alfonso Pérez",
+      "De Grolsch Veste",
+      "DEVK-Arena",
+      "Estádio Municipal de Braga",
+      "Europa-Park-Stadion",
+      "Gradski Stadion",
+      "Johan Cruijff Arena",
+      "MCH Arena",
+      "Mikheil Meskhi Stadium",
+      "National Football Academy",
+      "New Balance Arena",
+      "Papara Park",
+      "Parken",
+      "Planet Group Arena",
+      "Right to Dream Park",
+      "Savon Sanomat Areena",
+      "Skonto",
+      "Stade Louis II",
+      "Stadion Poljud",
+      "Stadion Střelnice",
+      "Stadionul Ion Oblemenco",
+      "Stadium Rajko Mitić",
+      "Stayen",
+      "Stelios Kyriakidis",
+      "Stockhorn Arena",
+      "Strandvallen",
+      "Tynecastle Park",
+      "Vejlby Stadion",
+      "Victoria Stadium"
+    ],
+    "nomes_times": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "listras",
+    "textura_opacidade": 1,
+    "fundo_imagem_intensidade": 28,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true,
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "nomes_estadios": {},
+    "futnatv_auto": "Conference League"
+  },
+  "copa-do-brasil": {
+    "nome": "Copa do Brasil",
+    "nome_curto": "Copa do Brasil",
+    "tournament_id": 373,
+    "season_id": 89353,
+    "season_auto": true,
+    "ano_civil": true,
+    "idioma": "pt",
+    "cores": [
+      "#34a348",
+      "#f2ba1c"
+    ],
+    "total_rodadas": 8,
+    "rodadas": [
+      {
+        "round": 1,
+        "name": "Round 1",
+        "slug": "round-1",
+        "prefix": ""
+      },
+      {
+        "round": 2,
+        "name": "Round 2",
+        "slug": "round-2",
+        "prefix": ""
+      },
+      {
+        "round": 3,
+        "name": "Round 3",
+        "slug": "round-3",
+        "prefix": ""
+      },
+      {
+        "round": 4,
+        "name": "Round 4",
+        "slug": "round-4",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "Round 5",
+        "slug": "round-5",
+        "prefix": ""
+      },
+      {
+        "round": 5,
+        "name": "Round of 16",
+        "slug": "round-of-16",
+        "prefix": ""
+      },
+      {
+        "round": 27,
+        "name": "Quarterfinals",
+        "slug": "quarterfinals",
+        "prefix": ""
+      },
+      {
+        "round": 28,
+        "name": "Semifinals",
+        "slug": "semifinals",
+        "prefix": ""
+      }
+    ],
+    "mata_mata": true,
+    "times_sofascore": [],
+    "estadios_sofascore": [],
+    "nomes_times": {},
+    "nomes_estadios": {},
+    "rotulo_rodada": "",
+    "formato_rodada": "",
+    "rotulos_faixas": {},
+    "fundo": "",
+    "tema": "medio",
+    "estilo_fundo": "brasil",
+    "textura_opacidade": 2,
+    "fundo_imagem_intensidade": 28,
+    "logo_sobre_padrao": false,
+    "textura_cor": "mono",
+    "logo_no_vazio": true,
+    "logo_cab_agenda": true,
+    "logo_cab_agenda_tam": "pequeno",
+    "logo_cab_agenda_cor": "branco",
+    "logo_cab_classificacao": true,
+    "logo_cab_classificacao_tam": "pequeno",
+    "logo_cab_classificacao_cor": "branco",
+    "logo_cab_stats": false,
+    "logo_cab_stats_tam": "pequeno",
+    "logo_cab_stats_cor": "branco",
+    "destaque_logo_fundo": true,
+    "tv_padrao": "",
+    "tv_logos": true,
+    "futnatv": "",
+    "zonas": [
+      {
+        "chave": "cl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "el",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "ecl",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      },
+      {
+        "chave": "rel",
+        "rotulo": "",
+        "ini": 0,
+        "fim": 0
+      }
+    ],
+    "futnatv_auto": "Semifinal - IDA"
+  }
+}
