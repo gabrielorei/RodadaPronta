@@ -587,7 +587,10 @@ def _iniciar_browser():
             "    playwright install chromium\ne rode de novo.")
     if "page" not in _pw:
         pw = sync_playwright().start()
-        navegador = pw.chromium.launch(headless=True)
+        import shutil
+        exe = shutil.which("chromium") or shutil.which("chromium-browser")
+        navegador = pw.chromium.launch(headless=True, executable_path=exe,
+                                       args=["--no-sandbox"])
         ctx = navegador.new_context(locale="pt-BR", user_agent=UA)
         page = ctx.new_page()
         page.goto("https://www.sofascore.com/pt/", wait_until="domcontentloaded")
